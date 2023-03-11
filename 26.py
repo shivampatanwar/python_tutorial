@@ -8,6 +8,7 @@ print(hours)
 # print(minuts)
 # seconds = time.strftime('%S')
 # print(seconds)
+# print(seconds)
 
 
 if '0' < hours < '12':
